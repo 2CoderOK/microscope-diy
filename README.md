@@ -14,9 +14,9 @@ Photo enlarger: Leningrad 2<br />
 
 <img alt="DIY Electronic Microscope" src="https://github.com/2CoderOK/microscope-diy/blob/main/microscope_image.jpg" />
 
-Here you can watch the video: [https://youtube.com/@coderok](https://youtu.be/)
+Here you can watch the video: [https://youtube.com/@coderok](https://youtu.be/W8HXRcmqQwQ)
 
-[<img alt="DIY Electronic Microscope" src="https://github.com/2CoderOK/microscope-diy/blob/main/microscope_preview.jpg" />](https://youtu.be/)
+[<img alt="DIY Electronic Microscope" src="https://github.com/2CoderOK/microscope-diy/blob/main/microscope_preview.jpg" />](https://youtu.be/W8HXRcmqQwQ)
 
 OSD pinout:
 
